@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.bozhnyukalex.intelijplug.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.bozhnyukalex.intelijplug.MyBundle
 
 class MyApplicationService {
 
